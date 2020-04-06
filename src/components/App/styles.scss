@@ -1,0 +1,13 @@
+@import '../UserInfo/styles.scss';
+@import '../UserRepos/styles.scss';
+
+.wrapper{
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.loader{
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
